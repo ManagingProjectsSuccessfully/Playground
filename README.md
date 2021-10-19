@@ -11,8 +11,7 @@ Aufgabe bis zum 22.10.2021
 
 Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
-
-
+* Meine Lieblingsuhrzeit ist 18:00, weil dann der ganze Feierabend noch vor einem liegt.
 * Meine Lieblingsuhrzeit ist um 20:00 Uhr genau, denn da kommt die Tagesschau
 * Meine Lieblingsuhrzeit ist früh morgens gegen 5/6 Uhr, weil die Stadt noch schön ruhig ist und nur die Leute unterwegs sind, die früh zur Arbeit müssen. Zudem fühlt sich der Tag, dann direkt produktiver und effektiver an.
 * Meine Lieblingsuhrzeit ist 15:00 weil Mahlzeit
@@ -31,4 +30,3 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingszeit ist 17:00 weil Feierabend. 
 * Meine Lieblingsuhrzeit ist 06:30 weil Frühstück.
 * Meine Lieblingsuhrzeit ist 13:37 weil halt.
-
