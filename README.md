@@ -12,6 +12,7 @@ Aufgabe bis zum 22.10.2021
 Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
 
+* Meine Lieblingsuhrzeit ist 20:00 weil es dann Abendessen gibt.
 * Meine Lieblingsuhrzeit ist 20:00, weil ab dann Feierabend ist :)
 * Meine Lieblingsuhrzeit ist 18:00 weil es dann Essen gibt.
 * Meine Lieblingsuhrzeit ist 03:00 Uhr weil ich tief und fest schlafe.
