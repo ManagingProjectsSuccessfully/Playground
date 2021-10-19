@@ -11,6 +11,6 @@ Aufgabe bis zum 22.10.2021
 
 Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
-Meine Lieblingsuhrzeit ist 12:00 weil Mahlzeit
+Meine Lieblingsuhrzeit ist XXX weil ...
 
 * Meine Lieblingsuhrzeit ist 22:00 weil Me Time. 
