@@ -12,6 +12,8 @@ Aufgabe bis zum 22.10.2021
 Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
 
+
+* Meine Lieblingsuhrzeit ist 20:30 weil ich meine Lieblingsshow wieder anschauen kann.
 * Meine Lieblingsuhrzeit ist 20:00 weil ich mich nicht schlecht fühle faul Netflix zu schauen.
 * Meine Lieblingsuhrzeit ist 12 Uhr weil ich es liebe zu kochen.
 * Meine Lieblingsuhrzeit ist 06:00 Uhr, weil man da seine Ruhe hat.
