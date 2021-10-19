@@ -14,3 +14,5 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 Meine Lieblingsuhrzeit ist 12:00 weil Mahlzeit
 
 * Meine Lieblingsuhrzeit ist 20:00 weil Netflix-Zeit. 
+
+Meine Lieblingsuhrzeit ist 06:30 weil Frühstück.
