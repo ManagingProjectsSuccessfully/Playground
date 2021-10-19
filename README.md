@@ -12,6 +12,8 @@ Aufgabe bis zum 22.10.2021
 Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
 
+* Meine Lieblingsuhrzeit ist 15:00 weil Mahlzeit
+* Meine Lieblingsuhrzeit ist 19:00 weil Serien-Zeit. 
 * Meine Lieblingsuhrzeit ist 19:34 weil, der Abend zu diesem Zeitpunkt noch jung ist
 * Meine Lieblingsuhrzeit ist heute 20.45 Uhr, weil dann Fußball übertragen wird.
 * Meine Lieblingsuhrzeit ist 6:00 weil ruhig 
@@ -26,4 +28,3 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingszeit ist 17:00 weil Feierabend. 
 * Meine Lieblingsuhrzeit ist 06:30 weil Frühstück.
 * Meine Lieblingsuhrzeit ist 13:37 weil halt.
-
