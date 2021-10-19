@@ -11,7 +11,7 @@ Aufgabe bis zum 22.10.2021
 
 Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 
-
+* Meine Lieblingsuhrzeit ist 19:00 Uhr weil Sonntags Football läuft.
 * Meine Lieblingsuhrzeit ist 23:00 (außer Wochenende) weil ich mein Lieblingsbuch in Ruhe genießen kann ...
 * Meine Lieblingsuhrzeit ist 3-4 Uhr Nachts weil ich da am produktivsten bin.
 * Meine Lieblingsuhrzeit ist 20:00 weil es dann Abendessen gibt.
@@ -47,4 +47,3 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20 Uhr weil Feierabend.
 * Meine Lieblingsuhrzeit ist 22:11 weil dann nach 11 Minuten 22:22 ist.
 * Meine Lieblingsuhrzeit ist 16:00 Uhr, weil kein Bier vor vier
-
