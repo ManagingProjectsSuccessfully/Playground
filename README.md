@@ -13,4 +13,6 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
 Meine Lieblingsuhrzeit ist XXX weil ...
 
-* Meine Lieblingsuhrzeit ist XXX weil ...
+* Meine Lieblingsuhrzeit ist 20:00 weil ich mich nicht schlecht fühle faul Netflix zu schauen.
+
+
