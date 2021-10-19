@@ -9,9 +9,10 @@ Aufgabe bis zum 22.10.2021
 
 ## Testeinträge
 
-Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
+Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 
 
+* Meine Lieblingsuhrzeit ist 3-4 Uhr Nachts weil ich da am produktivsten bin.
 * Meine Lieblingsuhrzeit ist 20:00 weil es dann Abendessen gibt.
 * Meine Lieblingsuhrzeit ist 20:00, weil ab dann Feierabend ist :)
 * Meine Lieblingsuhrzeit ist 18:00 weil es dann Essen gibt.
