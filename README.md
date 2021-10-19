@@ -13,5 +13,4 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 
 Meine Lieblingsuhrzeit ist XXX weil ...
 
-* Meine Lieblingsuhrzeit ist XXX weil ...
-Meine Lieblingsuhrzeit ist 16 Uhr, weil ich da ins Fitnessstudio gehe.
+* Meine Lieblingsuhrzeit ist 16 Uhr weil ich da ins Fitnessstudio gehe.
