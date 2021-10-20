@@ -58,4 +58,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 08:00 Uhr, weil es den ersten Kaffee gibt.
 * Meine Lieblingsuhrzeit ist 15:30 Uhr, weil da Bundesliga losgeht.
 * Meine Lieblingsuhrzeit ist 09:30 Uhr weil das die Zeit für KNOPPERS ist.
+* Meine Lieblingsuhrzeit ist 03:30Uhr, weil es dann Geisterstunde ist.
+* 
 
