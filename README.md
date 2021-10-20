@@ -38,6 +38,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 23:30 weil Schlafens-Zeit.  
 * Meine Lieblingsuhrzeit ist 9:45 weil da MPS stattfindet. :)
 * Meine Lieblingsuhrzeit ist 20:00 weil Netflix-Zeit. 
+* Meine Lieblingsuhrzeit ist 20:15 weil Primetime.
 * Meine Lieblingsuhrzeit ist 19:30 weil Training
 * Meine Lieblingsuhrzeit ist 16:00 weil Gassi-Runde-Zeit.
 * Meine Lieblingsuhrzeit ist 15:30 weil Bundesliga
@@ -50,3 +51,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 00:18, weil 8 eine glückliche Zahl ist.
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, wegen der Tagesschau.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
+
