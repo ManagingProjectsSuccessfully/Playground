@@ -48,9 +48,14 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20 Uhr weil Feierabend.
 * Meine Lieblingsuhrzeit ist 22:11 weil dann nach 11 Minuten 22:22 ist.
 * Meine Lieblingsuhrzeit ist 16:00 Uhr, weil kein Bier vor vier
+* Meine Lieblingsuhrzeit ist jeden Tag eine andere.
 * Meine Lieblingsuhrzeit ist 00:18, weil 8 eine glückliche Zahl ist.
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, wegen der Tagesschau.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
 * Meine Lieblingsuhrzeit ist 00:00 Uhr weil ich da nicht mehr müde bin.
 * Meine Lieblingsuhrzeit ist 13:00 Uhr weil Mahlzeit.
 * Meine Lieblingsuhrzeit ist 11:11 Uhr weil ich`s mir gut merken kann.
+* Meine Lieblingsuhrzeit ist 08:00 Uhr, weil es den ersten Kaffee gibt.
+* Meine Lieblingsuhrzeit ist 15:30 Uhr, weil da Bundesliga losgeht.
+* Meine Lieblingsuhrzeit ist 09:30 Uhr weil das die Zeit für KNOPPERS ist.
+
