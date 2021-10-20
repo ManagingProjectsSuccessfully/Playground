@@ -51,4 +51,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 00:18, weil 8 eine glückliche Zahl ist.
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, wegen der Tagesschau.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
-
+* Meine Lieblingsuhrzeit ist 00:00 Uhr weil ich da nicht mehr müde bin.
