@@ -83,3 +83,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit(en) ist alles nach 20:00, weil nach 20 am liebsten code
 * Meine Lieblingsuhrzeit ist 00:00 Uhr, da dann ein neuer Tag beginnt.
 * Meine Lieblingsuhrzeit ist 00:00 Uhr, da ich die Nacht mag.
+* Meine Lieblingsuhrzeit ist 17:00 Uhr, weil ich dann Feierabend habe. 
