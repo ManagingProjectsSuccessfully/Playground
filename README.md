@@ -10,7 +10,7 @@ Aufgabe bis zum 22.10.2021
 ## Testeinträge
 
 Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
-
+* Meine Lieblingsuhrzeit ist 12:00 Uhr weil ich dann reiten gehe.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr weil Sonntags Football läuft.
 * Meine Lieblingsuhrzeit ist 23:00 (außer Wochenende) weil ich mein Lieblingsbuch in Ruhe genießen kann ...
 * Meine Lieblingsuhrzeit ist 3-4 Uhr Nachts weil ich da am produktivsten bin.
@@ -38,6 +38,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 23:30 weil Schlafens-Zeit.  
 * Meine Lieblingsuhrzeit ist 9:45 weil da MPS stattfindet. :)
 * Meine Lieblingsuhrzeit ist 20:00 weil Netflix-Zeit. 
+* Meine Lieblingsuhrzeit ist 20:15 weil Primetime.
 * Meine Lieblingsuhrzeit ist 19:30 weil Training
 * Meine Lieblingsuhrzeit ist 16:00 weil Gassi-Runde-Zeit.
 * Meine Lieblingsuhrzeit ist 15:30 weil Bundesliga
@@ -47,6 +48,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20 Uhr weil Feierabend.
 * Meine Lieblingsuhrzeit ist 22:11 weil dann nach 11 Minuten 22:22 ist.
 * Meine Lieblingsuhrzeit ist 16:00 Uhr, weil kein Bier vor vier
+* Meine Lieblingsuhrzeit ist 00:18, weil 8 eine glückliche Zahl ist.
+* Meine Lieblingsuhrzeit ist 20:00 Uhr, wegen der Tagesschau.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
 * Meine Lieblingsuhrzeit ist 00:00 Uhr weil ich da nicht mehr müde bin.
-* 
