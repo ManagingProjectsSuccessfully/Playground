@@ -75,4 +75,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 13:00 Uhr, weil es dann meist Essen gibt.
 * Meine Lieblingsuhrzeit ist u.a. 07:19, weil ich glatte, gerade und schön teilbare Uhrzeiten nicht mag und solche chaotischen Zahlen beruhigend auf mich wirken :D
 * Meine Lieblingsuhrzeit ist 07:46 Uhr, weil die Sonne aufgeht.
-
+* Meine Lieblingsuhrzeit ist der Sonnenaufgang
