@@ -9,8 +9,14 @@ Aufgabe bis zum 22.10.2021
 
 ## Testeinträge
 
-Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
-
+Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
+* Meine Lieblingsuhrzeit ist 12:00 Uhr weil ich dann reiten gehe.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr weil Sonntags Football läuft.
+* Meine Lieblingsuhrzeit ist 23:00 (außer Wochenende) weil ich mein Lieblingsbuch in Ruhe genießen kann ...
+* Meine Lieblingsuhrzeit ist 3-4 Uhr Nachts weil ich da am produktivsten bin.
+* Meine Lieblingsuhrzeit ist 20:00 weil es dann Abendessen gibt.
+* Meine Lieblingsuhrzeit ist 20:00, weil ab dann Feierabend ist :)
+* Meine Lieblingsuhrzeit ist 18:00 weil es dann Essen gibt.
 * Meine Lieblingsuhrzeit ist 03:00 Uhr weil ich tief und fest schlafe.
 * Meine Lieblingsuhrzeit ist 11 Uhr, weil ich bis dahin schlafe.
 * Meine Lieblingsuhrzeit ist 1:00 weil dann Schlafenszeit ist.
@@ -32,12 +38,20 @@ Alle Teilnehmys fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 23:30 weil Schlafens-Zeit.  
 * Meine Lieblingsuhrzeit ist 9:45 weil da MPS stattfindet. :)
 * Meine Lieblingsuhrzeit ist 20:00 weil Netflix-Zeit. 
+* Meine Lieblingsuhrzeit ist 9:30 weil das die Zeit für Knoppers ist.
+* Meine Lieblingsuhrzeit ist 20:15 weil Primetime.
 * Meine Lieblingsuhrzeit ist 19:30 weil Training
 * Meine Lieblingsuhrzeit ist 16:00 weil Gassi-Runde-Zeit.
 * Meine Lieblingsuhrzeit ist 15:30 weil Bundesliga
 * Meine Lieblingszeit ist 17:00 weil Feierabend. 
 * Meine Lieblingsuhrzeit ist 06:30 weil Frühstück.
 * Meine Lieblingsuhrzeit ist 13:37 weil halt.
+* Meine Lieblingsuhrzeit ist 20 Uhr weil Feierabend.
 * Meine Lieblingsuhrzeit ist 22:11 weil dann nach 11 Minuten 22:22 ist.
 * Meine Lieblingsuhrzeit ist 16:00 Uhr, weil kein Bier vor vier
+* Meine Lieblingsuhrzeit ist 00:18, weil 8 eine glückliche Zahl ist.
+* Meine Lieblingsuhrzeit ist 20:00 Uhr, wegen der Tagesschau.
+* Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
+* Meine Lieblingsuhrzeit ist 00:00 Uhr weil ich da nicht mehr müde bin.
+* Meine Lieblingsuhrzeit ist 14:00 weil Freitags ab da Wochenende ist.
 
