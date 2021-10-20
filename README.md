@@ -58,6 +58,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 08:00 Uhr, weil es den ersten Kaffee gibt.
 * Meine Lieblingsuhrzeit ist 15:30 Uhr, weil da Bundesliga losgeht.
 * Meine Lieblingsuhrzeit ist 09:30 Uhr weil das die Zeit für KNOPPERS ist.
+* Meine Lieblingsuhrzeit ist 10:00 Uhr, weil lange ausschlafen und fit für den Tag.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
 * Meine Lieblingsuhrzeit ist 5:00 Uhr, weil das früher ist als 8:00 Uhr.
 * Meine Lieblingsuhrzeit ist 21:00 Uhr weil man entweder den Abend entspannt für sich hat oder man etwas cooles unternehmen kann. :)
@@ -72,4 +73,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 9:30 Uhr, da der Tag noch lang ist. :D
 * Meine Lieblingsuhrzeit ist 15:00 Uhr, weil da Anstoß in der Kreisklasse ist.
 * Meine Lieblingsuhrzeit ist 13:00 Uhr, weil es dann meist Essen gibt.
+* Meine Lieblingsuhrzeit ist u.a. 07:19, weil ich glatte, gerade und schön teilbare Uhrzeiten nicht mag und solche chaotischen Zahlen beruhigend auf mich wirken :D
 * Meine Lieblingsuhrzeit ist 07:46 Uhr, weil die Sonne aufgeht.
+
