@@ -200,3 +200,4 @@ Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 15:00, weil ich Sonntags zu dieser Zeit immer Fußballspiel habe.
 * Meine Lieblingsuhrzeit ist 21:00, weil Entspannung
+* Meine Lieblingsuhrzeit ist 21:00 weil ich dann in Ruhe Netflix&Chill genießen kann.
