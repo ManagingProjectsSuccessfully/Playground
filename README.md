@@ -112,5 +112,5 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Ich habe keine Lieblingsuhrzeit, da mein Tagesrhythmus sehr unterschiedlich ist.
 * Meine Lieblingsuhrzeit ist 10:30 Uhr, weils dann Frühstück gibt - die beste Mahlzeit am Tag.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich dann Training habe.
-
+* Meine Lieblingsuhrzeit ist 17:07, weil ich zu dieser Zeit jeden Tag zufällig immer auf die Uhr schaue.
 
