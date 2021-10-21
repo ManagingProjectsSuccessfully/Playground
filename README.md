@@ -174,3 +174,4 @@ Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien sc
 * Meine Lieblingsuhrzeit ist 18:00, weil es dann Abendessen gibt. 
 * Meine Lieblingsuhrzeit ist 15:30 Uhr, weil da die Bundesliga losgeht.
 * Meine Lieblingsuhrzeit ist 18:30, weil es da Abendessen gibt.
+* Meine Lieblingsuhrzeit ist 20:00, weil ich um diese Uhrzeit sicher Freizeit habe.
