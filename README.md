@@ -198,3 +198,4 @@ Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien sc
 * Meine Lieblingsuhrzeit ist 16:30 Uhr, weil ich da meinen Lieblingstee trinke.
 Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
+* Meine Lieblingsuhrzeit ist 15:00, weil ich Sonntags zu dieser Zeit immer Fußballspiel habe.
