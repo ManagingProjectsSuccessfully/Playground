@@ -87,4 +87,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 00:00 Uhr, da dann ein neuer Tag beginnt.
 * Meine Lieblingsuhrzeit ist 18:00 Uhr weil dann der Tag erst richtig los geht
 * Meine Lieblingsuhrzeit ist 15 Uhr, weil ich dann meinen Kaffee trinke.
-
+* Meine Lieblingsuhrzeit ist 18:00, weil ich dann Zeit für meine Hobbies habe.
