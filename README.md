@@ -100,6 +100,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich zum Sport gehen kann.
 * Meine Lieblingsuhrzeit ist 15:00 Uhr, weil ich da Sonntags immer mein Fußballspiel habe.
 * Meine Lieblingsuhrzeit ist 20:00, weil dann mein Training beginnt.
+* Meine Lieblingsuhrzeit ist 08:30, weil ich da meinen ersten Schluck Kaffee nehme.
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, weil es dann Abendessen gibt.
 * Meine Lieblingsuhrzeit ist 20:00, weil dann mein Training beginnt.
 * Meine Lieblingsuhrzeit ist 18.00 Uhr, weil ich dann trainieren gehe.
@@ -107,3 +108,17 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, weil ich meine Serie schauen kann. 
 * MeineLieblingsuhrzeit ist 17:00, weil es dann ist Feierabend
 * Meine Lieblingsuhrzeit ist 21:00 Uhr, weil ich da zur Ruhe komme. 
+* Meine Lieblingsuhrzeit ist 3:00 Uhr, weil ich da nach Hause komme. 
+* Meine Lieblingsuhrzeit ist 0:00 Uhr, weil da jemand an mich denkt.
+* Meine Lieblingsuhrzeit ist 16:20 Uhr, weil ich mir da immer eine Pause gönne.
+* Ich habe keine Lieblingsuhrzeit, da mein Tagesrhythmus sehr unterschiedlich ist.
+* Meine Lieblingsuhrzeit ist 10:30 Uhr, weils dann Frühstück gibt - die beste Mahlzeit am Tag.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich dann Training habe.
+* Meine Lieblingsuhrzeit ist 17:07, weil ich zu dieser Zeit jeden Tag zufällig immer auf die Uhr schaue.
+* Meine Lieblingsuhrzeit ist 20:30 Uhr, weil ich da meistens trainieren gehe. 
+* Meine Lieblingsuhrzeit ist 15:30 Uhr, weil die BuLi da beginnt.
+* Meine Lieblingsuhrzeit ist 13:00 Uhr, weil ich da immer was esse.
+* Meine Lieblingsuhrzeit ist 14 Uhr, weil es dann Mittagessen gibt.
+* Meine Lieblingsuhrzeit ist 00:00, weil ich dann schlafen gehe.
+
+
