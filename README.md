@@ -125,4 +125,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 12:00 weil Mahlzeit
 * Meine Lieblingsuhrzeit ist 22:00 weil Netflix-Zeit. 
 * Meine Lieblingsuhrzeit ist 17:00, weil ich dann ins Training gehe.
+* Meine Lieblingsuhrzeit ist genau jetzt: 18:56 Uhr, denn ich lebe im Hier und Jetzt.
+* 
 
