@@ -109,6 +109,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 3:00 Uhr, weil ich da nach Hause komme. 
 * Meine Lieblingsuhrzeit ist 0:00 Uhr, weil da jemand an mich denkt.
 * Meine Lieblingsuhrzeit ist 16:20 Uhr, weil ich mir da immer eine Pause gönne.
-
+* Ich habe keine Lieblingsuhrzeit, da mein Tagesrhythmus sehr unterschiedlich ist.
 
 
