@@ -122,3 +122,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 8:00 Uhr, weil ich da Kollagen trinke.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mahlzeit
 * Meine Lieblingsuhrzeit ist 22:00 weil Netflix-Zeit. 
+* Meine Lieblingsuhrzeit ist 17:00, weil ich dann ins Training gehe.
