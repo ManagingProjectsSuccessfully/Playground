@@ -10,6 +10,7 @@ Aufgabe bis zum 22.10.2021
 ## Testeinträge
 
 Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
+* Meine Lieblingsuhrzeit ist 00:00 Uhr, weil ich eine Null bin.
 * Meine Lieblingsuhrzeit ist 12:00 Uhr weil ich dann reiten gehe.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr weil Sonntags Football läuft.
 * Meine Lieblingsuhrzeit ist 23:00 (außer Wochenende) weil ich mein Lieblingsbuch in Ruhe genießen kann ...
