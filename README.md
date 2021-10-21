@@ -25,7 +25,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20:30 weil ich meine Lieblingsshow wieder anschauen kann.
 * Meine Lieblingsuhrzeit ist 20:00 weil ich mich nicht schlecht fühle faul Netflix zu schauen.
 * Meine Lieblingsuhrzeit ist 12 Uhr weil ich es liebe zu kochen.
-* TESTEINTRAG
 * Meine Lieblingsuhrzeit ist 06:00 Uhr, weil man da seine Ruhe hat.
 * Meine Lieblingsuhrzeit ist 18:00, weil dann der ganze Feierabend noch vor einem liegt.
 * Meine Lieblingsuhrzeit ist um 20:00 Uhr genau, denn da kommt die Tagesschau
@@ -94,7 +93,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 23:00 Uhr, weil ich dann schlafen gehen kann und mein Bett liebe.
 * Meine Lieblingsuhrzeit ist 15:00 weil da Anpfiff in der Kreisliga ist.
 * Meine Lieblingsuhrzeit ist 09:25 Uhr, weil ich Kaffee liebe.
-=======
 * Meine Lieblingsuhrzeit ist 21:00 Uhr, weil ich dann meine Serie auf Netflix weiterschauen kann.
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, weil ich dann meine Serie auf Netflix weiterschauen kann.
 
