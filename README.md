@@ -114,4 +114,5 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich dann Training habe.
 * Meine Lieblingsuhrzeit ist 17:07, weil ich zu dieser Zeit jeden Tag zufällig immer auf die Uhr schaue.
 * Meine Lieblingsuhrzeit ist 20:30 Uhr, weil ich da meistens trainieren gehe. 
+* Meine Lieblingsuhrzeit ist 15:30 Uhr, weil die BuLi da beginnt.
 
