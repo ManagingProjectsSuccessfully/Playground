@@ -10,11 +10,13 @@ Aufgabe bis zum 22.10.2021
 ## Testeinträge
 
 Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
+* Meine Lieblingsuhrzeit ist 00:00 Uhr, weil ich eine Null bin.
 * Meine Lieblingsuhrzeit ist 12:00 Uhr weil ich dann reiten gehe.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr weil Sonntags Football läuft.
 * Meine Lieblingsuhrzeit ist 23:00 (außer Wochenende) weil ich mein Lieblingsbuch in Ruhe genießen kann ...
 * Meine Lieblingsuhrzeit ist 3-4 Uhr Nachts weil ich da am produktivsten bin.
 * Meine Lieblingsuhrzeit ist 20:00 weil es dann Abendessen gibt.
+* Meine Lieblingsuhrzeit ist 20:00 Uhr weil ich dann Serien anschaue
 * Meine Lieblingsuhrzeit ist 20:00, weil ab dann Feierabend ist :)
 * Meine Lieblingsuhrzeit ist 18:00 weil es dann Essen gibt.
 * Meine Lieblingsuhrzeit ist 03:00 Uhr weil ich tief und fest schlafe.
@@ -33,6 +35,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 19:34 weil, der Abend zu diesem Zeitpunkt noch jung ist
 * Meine Lieblingsuhrzeit ist heute 20.45 Uhr, weil dann Fußball übertragen wird.
 * Meine Lieblingsuhrzeit ist 16:30 Uhr weil Abendessen
+* Meine Lieblingsuhrzeit ist 20:00 Uhr, weil dann Feierabend ist. 
 * Meine Lieblingsuhrzeit ist 6:00 weil ruhig
 * Meine Lieblingsuhrzeit ist 21:00 weil Me Time.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mahlzeit
@@ -59,6 +62,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 08:00 Uhr, weil es den ersten Kaffee gibt.
 * Meine Lieblingsuhrzeit ist 15:30 Uhr, weil da Bundesliga losgeht.
 * Meine Lieblingsuhrzeit ist 09:30 Uhr weil das die Zeit für KNOPPERS ist.
+* Meine Lieblingsuhrzeit ist 18:00 Uhr, weil da zumeist der entspanntere Teil des Tages beginnt.
 * Meine Lieblingsuhrzeit ist 10:00 Uhr, weil lange ausschlafen und fit für den Tag.
 * Meine Lieblingsuhrzeit ist 12:00 weil Mittagessen
 * Meine Lieblingsuhrzeit ist 5:00 Uhr, weil das früher ist als 8:00 Uhr.
@@ -82,3 +86,43 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist der Sonnenaufgang
 * Meine Lieblingsuhrzeit(en) ist alles nach 20:00, weil nach 20 am liebsten code
 * Meine Lieblingsuhrzeit ist 06:00 Uhr, weil dann der Tag bei mir beginnt.
+* Meine Lieblingsuhrzeit ist 00:00 Uhr, da dann ein neuer Tag beginnt.
+* Meine Lieblingsuhrzeit ist 00:00 Uhr, da ich die Nacht mag.
+* Meine Lieblingsuhrzeit ist 17:00 Uhr, weil ich dann Feierabend habe. 
+* Meine Lieblingsuhrzeit ist 00:00 Uhr, da dann ein neuer Tag beginnt.
+* Meine Lieblingsuhrzeit ist 18:00 Uhr weil dann der Tag erst richtig los geht
+* Meine Lieblingsuhrzeit ist 15 Uhr, weil ich dann meinen Kaffee trinke.
+* Meine Lieblingsuhrzeit ist 18:00, weil ich dann Zeit für meine Hobbies habe.
+* Meine Lieblingsuhrzeit ist 23:00 Uhr, weil ich dann schlafen gehen kann und mein Bett liebe.
+* Meine Lieblingsuhrzeit ist 15:00 weil da Anpfiff in der Kreisliga ist.
+* Meine Lieblingsuhrzeit ist 09:25 Uhr, weil ich Kaffee liebe.
+* Meine Lieblingsuhrzeit ist 21:00 Uhr, weil ich dann meine Serie auf Netflix weiterschauen kann.
+* Meine Lieblingsuhrzeit ist 20:00 Uhr, weil ich dann meine Serie auf Netflix weiterschauen kann.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich zum Sport gehen kann.
+* Meine Lieblingsuhrzeit ist 15:00 Uhr, weil ich da Sonntags immer mein Fußballspiel habe.
+* Meine Lieblingsuhrzeit ist 20:00, weil dann mein Training beginnt.
+* Meine Lieblingsuhrzeit ist 08:30, weil ich da meinen ersten Schluck Kaffee nehme.
+* Meine Lieblingsuhrzeit ist 20:00 Uhr, weil es dann Abendessen gibt.
+* Meine Lieblingsuhrzeit ist 20:00, weil dann mein Training beginnt.
+* Meine Lieblingsuhrzeit ist 18.00 Uhr, weil ich dann trainieren gehe.
+* Meine Lieblingsuhrzeit ist 23:00 Uhr, weil man den Tag ausklingen lassen kann und ein neuer bald beginnt. 
+* Meine Lieblingsuhrzeit ist 20:00 Uhr, weil ich meine Serie schauen kann. 
+* MeineLieblingsuhrzeit ist 17:00, weil es dann ist Feierabend
+* Meine Lieblingsuhrzeit ist 21:00 Uhr, weil ich da zur Ruhe komme. 
+* Meine Lieblingsuhrzeit ist 3:00 Uhr, weil ich da nach Hause komme. 
+* Meine Lieblingsuhrzeit ist 0:00 Uhr, weil da jemand an mich denkt.
+* Meine Lieblingsuhrzeit ist 16:20 Uhr, weil ich mir da immer eine Pause gönne.
+* Ich habe keine Lieblingsuhrzeit, da mein Tagesrhythmus sehr unterschiedlich ist.
+* Meine Lieblingsuhrzeit ist 10:30 Uhr, weils dann Frühstück gibt - die beste Mahlzeit am Tag.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich dann Training habe.
+* Meine Lieblingsuhrzeit ist 17:07, weil ich zu dieser Zeit jeden Tag zufällig immer auf die Uhr schaue.
+* Meine Lieblingsuhrzeit ist 20:30 Uhr, weil ich da meistens trainieren gehe. 
+* Meine Lieblingsuhrzeit ist 15:30 Uhr, weil die BuLi da beginnt.
+* Meine Lieblingsuhrzeit ist 13:00 Uhr, weil ich da immer was esse.
+* Meine Lieblingsuhrzeit ist 14 Uhr, weil es dann Mittagessen gibt.
+* Meine Lieblingsuhrzeit ist 00:00, weil ich dann schlafen gehe.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich dann zum Sport gehe.
+* Meine Lieblingsuhrzeit ist 8:00 Uhr, weil ich da Kollagen trinke.
+* Meine Lieblingsuhrzeit ist 12:00 weil Mahlzeit
+* Meine Lieblingsuhrzeit ist 22:00 weil Netflix-Zeit. 
+* Meine Lieblingsuhrzeit ist 17:00, weil ich dann ins Training gehe.
