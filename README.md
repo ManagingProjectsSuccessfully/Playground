@@ -163,3 +163,4 @@ Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien sc
 * Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien schaue.
 * Meine Lieblingsuhrzeit ist 13:37, weil Elite.
 * Meine Lieblingsuhrzeit ist 15:00, weil da Shopping Queen kommt und meine Freundin mich in Ruhe lässt. 
+* Meine Lieblingsuhrzeit ist 4:41 Uhr, weil da die letzte S-Bahn nach Hause fährt.
