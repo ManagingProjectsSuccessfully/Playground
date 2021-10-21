@@ -167,3 +167,4 @@ Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien sc
 * Meine Lieblingsuhrzeit ist 11:30 Uhr, weil ich da Arbeit aus habe.
 * Meine Lieblingsuhrzeit ist 11:00, weil ich um die Uhrzeit geboren wurde.
 * Meine Lieblingsuhrzeit ist 19:00, weil ich dann ins Bett gehe.
+* Meine Lieblingsuhrzeit ist 12:30, weil es Essen gibt.
