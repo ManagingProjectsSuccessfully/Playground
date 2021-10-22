@@ -182,7 +182,6 @@ Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien sc
 * Meine Lieblingsuhrzeit ist 23:00 weil ich dann schlagen gehe.
 * Meine Lieblingsuhrzeit ist 23:00 weil ich dann schlafen gehe.
 * Meine Lieblingsuhrzeit ist genau jetzt: 18:56 Uhr, denn ich lebe im Hier und Jetzt.
-* 
 * Meine Lieblingsuhrzeit ist 20:00, weil ich dort meistens frei habe.
 * Meine Lieblingsuhrzeit ist 20 Uhr, weil ich da meine Serie vor dem schlafen gehen ansehe.
 * Meine Lieblingsuhrzeit ist 20 Uhr, weil ich da meine Serie vor dem schlafen gehen ansehe
@@ -206,7 +205,6 @@ Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 06:00, weil der Tag noch voller Möglichkeiten steckt.
 * Meine Lieblingsuhrzeit ist 20:00, weil dann die Blockbuster laufen.
 * Meine Lieblingsuhrzeit ist 18:00, weil ich da Schwimmtrainig habe.
-*
 * Meine Lieblingsuhrzeit ist 21 Uhr, denn da beginnt Champions League. 
 * Meine Lieblingsuhrzeit ist 23:00, weil es dann ins Bett geht.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich mich dann mit meinen Freunden treffen kann.
