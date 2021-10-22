@@ -33,6 +33,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist früh morgens gegen 5/6 Uhr, weil die Stadt noch schön ruhig ist und nur die Leute unterwegs sind, die früh zur Arbeit müssen. Zudem fühlt sich der Tag, dann direkt produktiver und effektiver an.
 * Meine Lieblingsuhrzeit ist 15:00 weil Mahlzeit
 * Meine Lieblingsuhrzeit ist 19:00 weil Serien-Zeit.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr weil Fußballtraining ist.
 * Meine Lieblingsuhrzeit ist 19:34 weil, der Abend zu diesem Zeitpunkt noch jung ist
 * Meine Lieblingsuhrzeit ist heute 20.45 Uhr, weil dann Fußball übertragen wird.
 * Meine Lieblingsuhrzeit ist 16:30 Uhr weil Abendessen
