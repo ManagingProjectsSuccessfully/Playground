@@ -6,7 +6,6 @@ new_lines = []
 merge_area = False
 for l in lines:
     if l.startswith("<<<<<<<") or l.startswith("=======") or l.startswith(">>>>>>>"):
-        pass
         merge_area = True
     else:
         if merge_area:
