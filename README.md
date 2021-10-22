@@ -172,3 +172,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 15:30 Uhr, weil da die Bundesliga losgeht.
 * Meine Lieblingsuhrzeit ist 18:30, weil es da Abendessen gibt.
 * Meine Lieblingsuhrzeit ist 20:00, weil ich um diese Uhrzeit sicher Freizeit habe.
+* Meine Lieblingsuhrzeit ist 15:30, weil dann Bundesliga läuft.
