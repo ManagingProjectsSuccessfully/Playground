@@ -70,6 +70,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 10.:00 Uhr, weil lange ausschlafen.
 * Meine Lieblingsuhrzeit ist 21:00 Uhr, weil ich da meistens meine Ruhe habe.
 * Meine Lieblingsuhrzeit ist 09:00 Uhr, weil für mich der Tag beginnt. 
+* Meine Lieblingsuhrzeit ist 09:00 Uhr, weil für mich der Tag beginnt.  
 * Meine Lieblingsuhrzeit ist 13:30 Uhr weil dann die 2. Bundesliga läuft.
 * Meine Lieblingsuhrzeit ist 03:30Uhr, weil es dann Geisterstunde ist.
 * Meine Lieblingsuhrzeit ist 09:00 Uhr, weil ich dann frühstücke.
