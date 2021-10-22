@@ -210,3 +210,4 @@ Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 21 Uhr, denn da beginnt Champions League. 
 * Meine Lieblingsuhrzeit ist 23:00, weil es dann ins Bett geht.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich mich dann mit meinen Freunden treffen kann.
+* Meine Lieblingsuhrzeit ist 19:00 Uhr, weil da mein Training beginnt. 
