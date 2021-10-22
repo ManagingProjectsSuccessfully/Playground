@@ -157,3 +157,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 9.30 Uhr, es ist nicht zu spät und nicht zu früh um den Tag zu starten.
 * Meine Lieblingsuhrzeit ist 16:30, weil es dann ins Gym geht.
 * Meine Lieblingsuhrzeit ist 16:30, weil ich dann ins Gym gehe.
+* Meine Lieblingsuhrzeit ist 11:00, weil ich da gerne aufstehe.
