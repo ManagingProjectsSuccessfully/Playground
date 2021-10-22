@@ -214,3 +214,5 @@ Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 18:00, weil es da Abendessen gibt.
 * Meine Lieblingsuhrzeit ist 22:00 Uhr, weil ich um die Uhrzeit meistens Serien schaue.
 * Meine Lieblingsuhrzeit ist 04:20 Uhr, da schlafe ich am tiefsten. 
+* Meine Lieblingsuhrzeit ist 00:00 Uhr, weil dann die Nacht beginnt.
+* 
