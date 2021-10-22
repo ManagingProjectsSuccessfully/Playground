@@ -211,3 +211,4 @@ Meine Lieblingsuhrzeit ist 23:00, weil ich da schlafen gehe.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil da mein Training beginnt. 
 * Meine Lieblingsuhrzeit ist 15:00 Uhr, weil ich dann trainieren gehe.
 * Meine Lieblingsuhrzeit ist 11:00, weil ich da gerne aufstehe.
+* Meine Lieblingsuhrzeit ist 18:00, weil es da Abendessen gibt.
