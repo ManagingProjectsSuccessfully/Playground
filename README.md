@@ -240,3 +240,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, weil Netflix
 * Meine Lieblingsuhrzeit ist 10:00 Uhr, weil ich Sport machen gehe.
 * Meine Lieblingsuhrzeit ist 03:00 Uhr, weil ich da schlafe
+* Meine Lieblingsuhrzeit ist 20:00, weil ich da Feierabend habe.
