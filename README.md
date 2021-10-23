@@ -216,3 +216,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 04:20 Uhr, da schlafe ich am tiefsten. 
 * Meine Lieblingsuhrzeit ist 00:00 Uhr, weil dann die Nacht beginnt.
 * Meine Lieblingsuhrzeit ist 4:00, weil die Hauptkämpfe der UFC dann beginnen
+* Meine Lieblingsuhrzeit ist 06:30, weil ich da den Tag noch vor mir habe.
