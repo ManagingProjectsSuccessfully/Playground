@@ -187,7 +187,6 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist genau jetzt: 18:56 Uhr, denn ich lebe im Hier und Jetzt.
 * Meine Lieblingsuhrzeit ist 23:00 weil ich dann schlafen gehe.
 * Meine Lieblingsuhrzeit ist genau jetzt: 18:56 Uhr, denn ich lebe im Hier und Jetzt.
-* 
 * Meine Lieblingsuhrzeit ist 20:00, weil ich dort meistens frei habe.
 * Meine Lieblingsuhrzeit ist 20 Uhr, weil ich da meine Serie vor dem schlafen gehen ansehe.
 * Meine Lieblingsuhrzeit ist 20 Uhr, weil ich da meine Serie vor dem schlafen gehen ansehe
@@ -244,3 +243,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 20:00, weil ich da Feierabend habe.
 * Meine Lieblingsuhrzeit ist 12:00 Uhr, weil dann ist Mittagszeit.
 * Meine Lieblingsuhrzeit ist 10:00 Uhr, weil es für mich oft die entspannteste Zeit am Tag ist.
+* Meine Lieblingsuhrzeit ist 04:01, weil mein kein Bier vor vier trinken soll.
