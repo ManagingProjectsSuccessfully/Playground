@@ -134,6 +134,7 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 13:00 Uhr, weil es dann Mittagessen gibt.
 * Meine Lieblingsuhrzeit ist 00:00 Uhr, weil ich eine Null bin.
 * Meine Lieblingsuhrzeit ist 13:00, weil ich da was esse.
+* Meine Lieblingsuhrzeit ist 13:00 Uhr, weil man da auf jeden Fall ausgeschalfen hat.
 * Meine Lieblingsuhrzeit ist 18:00, da ich zu dieser Zeit Feierabend habe.
 * Meine Lieblingsuhrzeit ist 13:30, weil ich da esse.
 * Meine Lieblingsuhrzeit ist 4:44, weil ich da schlafe.
