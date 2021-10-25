@@ -257,3 +257,4 @@ Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 06:30, weil ich da den Tag noch vor mir habe.
 * Meine Lieblingsuhrzeit ist 21.35 Uhr, weil der Nachbar nach Hause kommt und die Tür hinter sich zuschmettert.
 * Meine Lieblingsuhrzeit ist 09:00 Uhr, weil ich dann frühstücke.
+* Meine Lieblingsuhrzeit ist 11:11 Uhr, weil es eine Schnapszahl ist und ich liebe Schnaps überr alles.
