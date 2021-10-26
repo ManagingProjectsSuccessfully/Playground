@@ -267,3 +267,4 @@ Hier gehts zur Auswertung.
 * Meine Lieblingsuhrzeit ist 16:20 Uhr, weil ich da immer happy werde, einfach so.
 * Meine Lieblingsuhrzeit ist 22.00 Uhr, weil ich da Netflix schaue
 * Meine Lieblingsuhrzeit ist 23:00, weil der Tag am ende ist und ich gehe ins Bett schlafen.
+* Meine Lieblingsuhrzeit ist 15:00, weil da die Mittagsruhe in meiner Wohnung endet und ich wieder Musik machen darf.
