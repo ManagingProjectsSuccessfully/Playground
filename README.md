@@ -7,9 +7,8 @@ Aufgabe bis zum 22.10.2021
 * Pull-Request stellen
 
 
-## Testeinträge
+## Testeinträge zur Lieblingsuhrzeit:
 
-Alle Teilnehmer fügen einen Satz nach folgendem Schema hinzu:
 * Meine Lieblingsuhrzeit ist 17:00 Uhr, weil ich da denke ich habe noch Zeit.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich zu dieser Zeit Sport mache.
 * Meine Lieblingsuhrzeit ist 13:37 Uhr, weil ich zu diesem Zeitpunkt sehr oft auf die Uhr schaue.
