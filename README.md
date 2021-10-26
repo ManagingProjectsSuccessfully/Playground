@@ -12,7 +12,7 @@ Hier gehts zur [Auswertung](Auswertung.md).
 
 
 ## Testeinträge zur Lieblingsuhrzeit:
-
+* Meine Lieblingsuhrzeit ist 24:00 Uhr, weil ich bald auf einen neuen Tag freuen kann.
 * Meine Lieblingsuhrzeit ist 17:00 Uhr, weil ich da denke ich habe noch Zeit.
 * Meine Lieblingsuhrzeit ist 19:00 Uhr, weil ich zu dieser Zeit Sport mache.
 * Meine Lieblingsuhrzeit ist 13:37 Uhr, weil ich zu diesem Zeitpunkt sehr oft auf die Uhr schaue.
