@@ -6,6 +6,10 @@ Aufgabe bis zum 22.10.2021
 * Veränderung vornehmen und Commit erstellen
 * Pull-Request stellen
 
+## Auswertung zu den Testbeiträgen
+
+Hier gehts zur Auswertung.
+
 
 ## Testeinträge zur Lieblingsuhrzeit:
 
