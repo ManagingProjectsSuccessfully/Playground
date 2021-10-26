@@ -8,7 +8,7 @@ Aufgabe bis zum 22.10.2021
 
 ## Auswertung zu den Testbeiträgen
 
-Hier gehts zur Auswertung.
+Hier gehts zur [Auswertung](Auswertung.md).
 
 
 ## Testeinträge zur Lieblingsuhrzeit:
