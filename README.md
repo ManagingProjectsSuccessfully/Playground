@@ -270,3 +270,4 @@ Hier gehts zur [Auswertung](Auswertung.md).
 * Meine Lieblingsuhrzeit ist 04:20, weil man zu dieser Zeit am besten Chillen kann.
 * Meine Lieblingsuhrzeit ist 23:30, weil ich schlafe.
 * Meine Lieblingszeit ist 23:00, weil ich dann entspannen kann und den Tag hinter mir lassen kann. 
+* Meine Lieblingsuhrzeit ist 15:00, weil da die Mittagsruhe in meiner Wohnung endet und ich wieder Musik machen darf.
