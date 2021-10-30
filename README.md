@@ -276,3 +276,4 @@ Hier gehts zur [Auswertung](Auswertung.md).
 * Meine Lieblingsuhrzeit ist 20:00 Uhr, weil ich da zu Abend esse.
 * Meine Lieblingsuhrzeit ist 12:00 Uhr, weil da der Tag zur Hälfte rum ist.
 *Meine Lieblingsuhrzeit ist 18:00 Uhr,weil Chill.
+* Meine Lieblingsuhrzeit ist 15:00, weil ich da ins Fitnessstudio gehe.
